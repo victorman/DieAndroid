@@ -60,6 +60,7 @@ public class MainActivity extends Activity {
             }
         });
 
+        // thanks aporter
         int width = (int) getResources().getDimension(R.dimen.image_width);
         int height = (int) getResources().getDimension(R.dimen.image_height);
 
